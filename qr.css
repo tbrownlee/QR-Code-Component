@@ -32,21 +32,21 @@ body {
     margin: 85px 50px 50px 50px;
     flex-wrap: wrap;
 
-    border-radius: 5%;
-    padding: 15px 8px;
+    border-radius: 21px;
+    padding: 16px 8px;
 }
 
 .main-div img {
     width: 95%;
     display: flex;
     align-items: center;
-    border-radius: 4%;
-    margin-bottom: 22px;
+    border-radius: 11px;
+    margin-bottom: 20px;
 }
 
 .words {
     width: 255px;
-    margin-bottom: 23px;
+    margin-bottom: 25px;
 }
 
 h2 {
@@ -63,13 +63,23 @@ p {
 @media only screen and (min-width: 400px) {
     .main-div {
         width: 280px;
+        padding: 13px 7px;
+        border-radius: 18px;
+    }
+
+    .main-div img {
+        border-radius: 10px;
     }
 
     h2 {
-        font-size: 1.25em;
+        font-size: 1.21em;
     }
 
     p {
         font-size: .9em;
+    }
+
+    .words {
+        margin-bottom: 21px;
     }
 }
