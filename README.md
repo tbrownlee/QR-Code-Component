@@ -1,0 +1,1 @@
+For this project, I used basic HTML and CSS. This is the first HTML and CSS project I did on my own. Surprisingly, it took less time than expected. 
