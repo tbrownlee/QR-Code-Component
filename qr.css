@@ -23,6 +23,11 @@ body {
     min-height: 100vh;
 }
 
+main {
+    display: flex;
+    justify-content: center;
+}
+
 .container {
     display: flex;
     justify-content: center;
